@@ -17,4 +17,10 @@ reconfigure example https://github.com/Griggorii/mesa-20.1.0-linux
 
 My mesa ultra fast wayland 100% ubuntu 20.04 focal fossa https://github.com/Griggorii/mesa-20.0.4_V14-libdrm_ubuntu-20.04_and_19.04_X86_64_full_stack_graphics
 
-llvm https://github.com/Griggorii/llvm-10-static-libclang
+llvm 10 codegen static lib https://github.com/Griggorii/llvm-10-static-libclang
+ 
+Так же есть просьба поднять зинтересованных лиц по поводу ipv6 так как с ним не собиратся программы допустим gst-plugins-base , gnome-control-centr хотел вернуть как говоритьс на место его мобильность тут я подробно посыпаю голову пеплом девелоперам https://www.youtube.com/watch?v=AGpgz0mU6PY всё это на данный момент выдает такую хрень и при чем без cups который привязали как я понял к ipv6 не соберёшь.
+
+/usr/include/cups/http.h : error: field ‘ipv6’ has incomplete type
+  |   struct sockaddr_in6 ipv6;  /* IPv6 address */
+
