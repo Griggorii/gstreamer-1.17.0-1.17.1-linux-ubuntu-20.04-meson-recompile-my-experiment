@@ -16,3 +16,5 @@ send results corporation, sudo to root install
 reconfigure example https://github.com/Griggorii/mesa-20.1.0-linux
 
 My mesa ultra fast wayland 100% ubuntu 20.04 focal fossa https://github.com/Griggorii/mesa-20.0.4_V14-libdrm_ubuntu-20.04_and_19.04_X86_64_full_stack_graphics
+
+llvm https://github.com/Griggorii/llvm-10-static-libclang
