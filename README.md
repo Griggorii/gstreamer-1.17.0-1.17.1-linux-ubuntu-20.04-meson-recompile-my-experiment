@@ -6,6 +6,8 @@ meson --reconfigure --prefix=/usr build
 
 ninja -C build install
 
+and not pam , sudo to root install 
+
 send results corporation
 
 reconfigure example https://github.com/Griggorii/mesa-20.1.0-linux
