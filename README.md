@@ -4,7 +4,7 @@ binare mit , sorce free , build , meson , gst
 
 meson --reconfigure --prefix=/usr build
 
-sudo ninja -C .build install
+ninja -C build install
 
 send results corporation
 
