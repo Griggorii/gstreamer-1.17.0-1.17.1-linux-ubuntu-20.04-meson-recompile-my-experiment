@@ -1,6 +1,11 @@
 # gstreamer-1.17.0-1.17.1-linux-ubuntu-20.04-meson-recompile-my-experiment
 binare mit , sorce free , build , meson , gst , deps , deffine , dump structure
 
+1) test dependency 
+
+ninja -C build install
+
+Not dependency ? Not install ? Ok fixme
 
 meson --reconfigure --prefix=/usr build
 
