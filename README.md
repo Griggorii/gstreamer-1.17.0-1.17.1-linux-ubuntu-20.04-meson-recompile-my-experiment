@@ -6,4 +6,6 @@ meson --reconfigure --prefix=/usr build
 
 sudo ninja -C .build install
 
+send results corporation
+
 reconfigure example https://github.com/Griggorii/mesa-20.1.0-linux
